@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/13564851/how-to-generate-keyboard-events
+
 import ctypes
 from ctypes import wintypes
 import time
